@@ -4,7 +4,6 @@
 
 ![Baidu Tieba Auto Sign](https://github.com/RoadIsLong/TiebaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
 ## 使用说明
-
 1. Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加一个库秘密变量。其中 `BDUSS` 存放你的 BDUSS。支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
 
 ![添加库秘密变量](https://user-images.githubusercontent.com/30728105/165701800-ff57b82c-553d-4ddb-9687-d7be1c99801d.png)
